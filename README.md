@@ -27,7 +27,7 @@ Raw data was cleaned and preprocessed in Google Sheets. Pivot tables aggregated 
 
 **Visualization:** 
 
-* **October:**![Total_Sales_&_Quantity_Sold_Per_Month](images/Sales%20_In_October.png) 
+![Total_Sales_&_Quantity_Sold_Per_Month](images/Total%20Sales%20&%20Quantity%20Sold%20per%20Month.png) 
 
 **Interpretation & Insights:**
 
@@ -52,13 +52,11 @@ Raw data was cleaned and preprocessed in Google Sheets. Pivot tables aggregated 
 
 **Visualization:**
 
-* **October:**
 ![daily_sales_trend.png](images/Daily%20Sales%20Trend%20in%20October.png)
 
-* **November:**
 ![daily_sales_trend.png](images/Daily%20Sales%20Trend%20in%20November.png)
 
-* **December:**
+
 ![daily_sales_trend.png](images/Daily%20Sales%20Trend%20in%20December.png)
 
 **Interpretation & Insights:** 
@@ -99,6 +97,7 @@ Chapati and Tea dominate in sales and quantity, followed by Uji and Fries.
 Maintain quality and availability of Chapati and Tea. Investigate strategies to ensure consistent availability of Uji and Fries.
 
 **Visualization (November):**
+
 ![Sales & Quantity Sold Per Item In November](images/Sales%20&%20Quantity%20Sold%20Per%20Item%20In%20November.png)
 
 **Interpretation & Insights (November):** 
@@ -191,7 +190,7 @@ Data Analysis: Continuously monitor the sales data for the bundled deals to asse
 
 **Visualization:**
 
-![Dine_ In_revenue.png](images/)
+![Dine_ In_revenue.png](images/Income%20Generated%20by%20dine_ins.png)
 ![Delivery_Revenue.png](images/Income%20Generated%20by%20Deliveries.png)
 
 **Interpretation & Insights:**
