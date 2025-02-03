@@ -190,7 +190,8 @@ Data Analysis: Continuously monitor the sales data for the bundled deals to asse
 
 **Visualization:**
 
-![Dine_ In_revenue.png](images/Income%20Generated%20by%20dine_ins.png)
+![Dine_ In_revenue.png](images/Income%20Generated%20by%20Dine%20Ins.png)
+
 ![Delivery_Revenue.png](images/Income%20Generated%20by%20Deliveries.png)
 
 **Interpretation & Insights:**
